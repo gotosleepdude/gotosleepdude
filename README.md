@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gotosleepdude (Amir Zakaria)
+- 👀 I’m interested in a lot of things, from Hacking to Development
+- 🌱 I’m currently learning React and MongoDb along with some Linux Server Configurations
+- 💞️ I’m looking to collaborate on anything ranging from Web Development to Robotics to Hacking
+- 📫 YOu can contact me on Instagram : _e_s_k_e_t_i_t_ (There are 0 posts)
